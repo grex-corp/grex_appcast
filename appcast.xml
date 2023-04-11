@@ -3,10 +3,10 @@
     <channel>
         <title>Nova Versão - Grex</title>
         <item>
-            <title>Versão 2.7.0</title>
+            <title>Versão 2.7.1</title>
             <description>desc</description>
-            <pubDate>Mon, 27 Mar 2023 20:10:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.grex.app" sparkle:version="2.7.0" sparkle:os="android" />
+            <pubDate>Tue, 11 Apr 2023 09:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.grex.app" sparkle:version="2.7.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
